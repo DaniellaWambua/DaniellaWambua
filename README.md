@@ -6,7 +6,7 @@
 
 I'm a final-year BSc Informatics and Computer Science student passionate about building technology that solves real-world problems through data, software, and intelligent systems. My experience spans machine learning, web and mobile application development, embedded systems, cloud technologies, and database systems. I enjoy tackling challenges that combine analytical thinking with practical implementation, especially in areas where technology can improve decision-making, automation, and user experiences.
 
-- 🔭 **Current Focus: Building a real-time flood data pipeline for early warning systems as my capstone project, using an LSTM Autoencoder for unsupervised anomaly detection on rainfall and river discharge data, focused on Nairobi's informal settlements.
+- 🔭 **Current Focus:** Building a real-time flood data pipeline for early warning systems as my capstone project, using an LSTM Autoencoder for unsupervised anomaly detection on rainfall and river discharge data, focused on Nairobi's informal settlements.
 - 🌱 **Learning & Exploration:** I am currently expanding my knowledge in fields such as Machine Learning, Deep Learning, Data Analytics and Cloud Computing. I am also strengthening my skills in Python's data science ecosystem, including NumPy, Pandas, Scikit-learn, and deep learning frameworks.
 - ⚡ **Core Interests:** Machine Learning, Data Science, Software Engineering, Mobile Development, Cloud Computing, Database Systems, Embedded Systems, Artificial Intelligence, and Technology Applications in Aviation.
 
