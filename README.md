@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=Daniella%20Wambua&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Machine%20Learning%20Enthusiast%20|%20Software%20Developer&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
 # Hi there, I'm Daniella 👋
