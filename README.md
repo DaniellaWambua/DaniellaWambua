@@ -50,6 +50,13 @@ I'm a final-year BSc Informatics and Computer Science student passionate about b
 
 ---
 
+## ⏱️ Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## Connect With Me
 
 - 💼 **Professional Network:** https://www.linkedin.com/in/daniella-wambua-588281345/
