@@ -53,6 +53,11 @@ I'm a final-year BSc Informatics and Computer Science student passionate about b
 ## ⏱️ Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
